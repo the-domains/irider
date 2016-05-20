@@ -1,0 +1,14 @@
+layout_spectrum: 0.0693527483381331
+typography_spectrum: 0.6585927666164935
+color:
+  brandStrength: 0.29933037469163537
+  lightness: 0.8559882789850235
+  saturation: 0.537850049091503
+  rhythmicContrast: 0.5230941819027066
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: iRider
