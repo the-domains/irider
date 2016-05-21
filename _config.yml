@@ -1,4 +1,3 @@
-layout_spectrum: 0.0693527483381331
 typography_spectrum: 0.6585927666164935
 color:
   brandStrength: 0.29933037469163537
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: iRider
+layout_spectrum: 0.0693527483381331
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f04648c-caa1-4c00-aec2-bfcc3940a04f.jpg'
+name: iRider
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/17813bae-9203-496f-9707-cac2d82af17a.jpg'
